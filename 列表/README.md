@@ -1,7 +1,7 @@
 # RecyclerView相关
-------------------
 ### [SuperSLiM](https://github.com/TonicArtos/SuperSLiM)
-    为RecyclerView提供交替变换视图布局的layout manager。可以在线性、网格、不规则网格布局中交替切换，同时带有stickyheader的效果。
+    为RecyclerView提供交替变换视图布局的layout manager。
+    可以在线性、网格、不规则网格布局中交替切换，同时带有stickyheader的效果。
 ![github](http://www.jcodecraeer.com/uploads/150110/1-1501101APB29.gif "github")
 
 ### [StikkyHeader](https://github.com/carlonzo/StikkyHeader)
@@ -18,7 +18,8 @@
 ![github](http://www.jcodecraeer.com/uploads/150315/1-15031511105O25.gif "github")
 
 ### [RecyclerViewHeader](https://github.com/blipinsk/RecyclerViewHeader)
-    轻松为RecyclerView添加头部，调用简单的代码就可以为LinearLayoutManager、GridLayoutManager、StaggeredGridLayoutManager布局的RecyclerView添加header。
+    轻松为RecyclerView添加头部，调用简单的代码就可以为LinearLayoutManager、GridLayoutManager、
+    StaggeredGridLayoutManager布局的RecyclerView添加header。
 ![github](http://www.jcodecraeer.com/uploads/150522/1-15052211105T31.png "github")
 
 ### [mugen](https://github.com/vinaysshenoy/mugen)
@@ -27,7 +28,6 @@
 
 
 # ListView相关
---------------
 ### [Swipemenulistview](https://github.com/baoyongzhang/SwipeMenuListView)
     ListView滑动菜单
 ![github](http://img.my.csdn.net/uploads/201412/31/1420002304_8454.gif "github")
