@@ -1,5 +1,5 @@
 # 图片加载
-### [fresco](https://github.com/facebook/fresco) [中文文档](http://www.fresco-cn.org/)
+### [fresco](https://github.com/facebook/fresco)    [中文文档](http://www.fresco-cn.org/)
     facebook推出的一款强大的android图片加载库。
 
 ### [glide](https://github.com/bumptech/glide)
@@ -7,6 +7,9 @@
 
 ### [picasso](https://github.com/square/picasso)
     Square公司开源的一个图片加载库。
+
+### [图片加载库对比](http://a.codekk.com/blogs/detail/565549e2fbbec781c2f75821)
+    主流图片加载库的原理、特性对比。
 
 # 图片控件
 ### [TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
@@ -17,6 +20,9 @@
 
 ### [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
     一款支持圆角、椭圆形、圆形的ImagView。
+
+### [android-shape-imageview](https://github.com/siyamed/android-shape-imageview)
+    一款支持多边形、心形的ImagView。
 
 
 
