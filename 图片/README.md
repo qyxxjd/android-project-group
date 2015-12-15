@@ -11,3 +11,20 @@
 # 图片控件
 ### [TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
     一款很好用的可缩放ImagView，具有缩放、拖拽、双击放大等功能，并伴有流畅的过渡动画效果。
+
+### [CircleImageView](https://github.com/hdodenhof/CircleImageView)
+    圆形ImagView，方便设置边框厚度、颜色
+
+### [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)
+    一款支持圆角、椭圆形、圆形的ImagView。
+
+
+
+
+
+
+
+
+
+
+
