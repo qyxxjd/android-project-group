@@ -27,6 +27,12 @@
 ### [android-shape-imageview](https://github.com/siyamed/android-shape-imageview)
     一款支持多边形、心形的ImageView.
 
+### [android-crop](https://github.com/jdamcd/android-crop)
+    一个剪裁图片库，他提供了实现剪裁单张图片的activity，其实现是基于AOSP的代码.
+
+### [Blurry](https://github.com/wasabeef/Blurry)
+    一个具有模糊效果的图片库.
+
 
 
 
