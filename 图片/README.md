@@ -8,8 +8,11 @@
 ### [picasso](https://github.com/square/picasso)
     Square公司开源的一个图片加载库。
 
-### [图片加载库对比](http://a.codekk.com/blogs/detail/565549e2fbbec781c2f75821)
-    主流图片加载库的原理、特性对比。
+### [Android-Universal-Image-Loader](https://github.com/search?l=Java&o=desc&q=image&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93)
+    一款很早开源的图片缓存，被很多应用广泛使用。
+
+### [主流图片加载库对比](http://a.codekk.com/blogs/detail/565549e2fbbec781c2f75821)
+    Universal Image Loader/Picasso/Glide/Fresco原理分析、特性介绍、优缺点对比。
 
 # 图片控件
 ### [TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
