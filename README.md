@@ -6,9 +6,3 @@
 
 
 
-
-
-#### 关于 
-Q  Q:630404403 <br />
-微信:630404403 <br />
-博客:[http://blog.csdn.net/qy1387](http://blog.csdn.net/qy1387) 
